@@ -28,7 +28,7 @@ Note: if sending a cert from one system to the other fails, it must retry severa
 ### Transferring Certs
 Transferring certs to new owners is done as part of a trade, either as an incentive or as a trade. To transfer a cert to a new owner, the current owner's system sends a transfer request to the issuer's system (associated energy producer).
 
-![overview](https://www.plantuml.com/plantuml/png/TP51JiCm44NtFiNiKIvG8LGGcwxOmd9mVuLLnoupOrUzFSLHv2YGxE9v_y-pl5TZiJ96f-UGBYmyajejWjGa-3PnRzS4eM5uekVBvPrsPC99Jn3o47FiBLGsjAbhI4Uvs1SzKEKOZcmXfpKWq1mhAAWM2E7mkYGEq-cE5EdOrlNbWky2DRSGc0EkHrSzNUJN2X9EmRVVhKWtJBZI9nBkYS1ocrMtGZMVGJbErjkW5x2ryl_1Z_doCq6MbnhkPQ7qE0npHk0HAdHg5LYHH5gyX-hVDnXpxR9h-lxjaOvbZ3y0)
+![overview](https://www.plantuml.com/plantuml/png/TP51JiCm44NtFiNiKIvG8LGGcwxOqgLnVeLLnmupOrUzFU0eSh38ql7xC-_7Hr7BcgTWvEhZRDbE97eF857shjwOjri4qp0yqVCylzE1b6sK2vWSM8rrwejLr5jJaORQh9_qGCK6FrhrAVO0Gr8e82-ImOJJwvOuBLyF98XZNTUMCxuoHCr6O0sO5ktcD95VAx2_U5UFUv5c676Z3qJy9Bpb-wAw7ohf2afXiTu77SDg7Vu_U5xBhmHfschyQNysDT6IktLxK3Gn5eENJSV7OLW9XeCla0LYQEP8afs3I7_itnXJAkrdzFGHSSnJ-0O0)
 
 Note: after a successful transfer, the first owner can no longer use the old cert because it has been revoked, this makes double spending impossible.
 
