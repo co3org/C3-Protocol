@@ -10,7 +10,7 @@ The diagram below illustrates C3 in the context of a basic value chain.
 ![overview](https://www.plantuml.com/plantuml/png/VSs_2i8m4CVnFKznkxWuEaXDKIV1LuZj8Q79LUxFKF3XJMqH2gLBbk_dVgb40wlbvAIBz0uSCeWE2SlBiVaLTo7ar_3WlhK66VOdk4REPpZ2ZH49fWuxA5N5JN5MlgZfKlzWVSzlxVbHrJs9PUJ5P1kbwOqKFillHu-izy0TQhaGJ4aMYvl4-SEAUDemWzBhpLuXjPRJ5m00)
 
 
-- C3 Certs get created by audited green energy producers.
+- Certs are created by audited green energy producers.
 - Certs flow through value chains as incentives.
 - Certs are sold to recover investments, sharing the cost of green premiums.
 - Certs are multipurpose and bought either as an investment, portfolio optimization or other use case.
