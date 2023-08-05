@@ -34,7 +34,7 @@ Note: after a successful transfer, the first owner can no longer use the old cer
 
 
 ### Splitting Certs
-Transferring certs to new owners is done as part of a trade, either as an incentive or as a trade. To transfer a cert to a new owner, the current owner's system sends a transfer request to the issuer's system (associated energy producer).
+To split a cert into smaller pieces, the cert owner sends a split request to the issuer's system (associated energy producer).
 
 ![overview](https://www.plantuml.com/plantuml/png/TOynRWCX44LxJZ5zv0kaY1mfZQkqsoByeupC0faPi7BxU8aLDcij7Vmtl3z7DIzMv-ZqmgbuyJEfVKUGcd3eYNk_9WWT3Y_qMif4pwGbib60cFF1k7b3ZrpF1-UhVT8JDH_vx8rpsW82pR61MBL22AUtDN7ghuiFwTnrTxFWgqBD_Ta7xSRSvfFHOga4uGyE_Re_8cZv0ihnrxuF1i7I8k7QGNqWf_iM_v5fdLeMh68di2g9j8O0VS05SswZsfQ-dUDDL-Vu0m00)
 
