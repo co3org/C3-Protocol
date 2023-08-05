@@ -1,4 +1,4 @@
-# Carbon3 Protocol
+# C3 Protocol
 C3 is a financial system to incentivize and reward sustainability. It decreases the cost of green premiums and accelerates the energy transition more rapidly and profitably. To learn more visit [carbon3.net](https://www.carbon3.net)
 
 ## High level overview
