@@ -1,5 +1,5 @@
 # C3 Protocol
-C3 is a financial system to incentivize and reward sustainability. It decreases the cost of green premiums and accelerates the energy transition more rapidly and profitably. To learn more visit [carbon3.net](https://www.carbon3.net)
+C3 is a financial system to incentivize and reward sustainability. It helps decrease scope 3 emissions and distribute the cost of green premiums to accelerates the energy transition more rapidly and profitably. To learn more visit [carbon3.net](https://www.carbon3.net)
 
 ![C3-diagram](https://github.com/co3org/C3-Protocol/assets/53948000/3cc63d2d-40ba-429d-a82d-74812a4bd368)
 
