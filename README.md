@@ -7,7 +7,7 @@ C3 is a financial system to incentivize and reward sustainability. It helps decr
 ## High level overview
 The diagram below illustrates C3 in the context of a basic value chain.
 
-![overview](https://www.plantuml.com/plantuml/png/VS-n2i9030RW_PuYkxZe9YBLGvm4No7qGZdQIqkI6_hsHYaKGLqovFyI-1ir5Ajb2Dfddb2mWDeya4_9xJi9SG_R4pnaJBKbKJZ0kQPicRkmBbt4iKp8cLxY9aGCLoRfPjY04zEmWa-z_BRlyBABVydHpHsb9tDcWeaMueU_muOuURid)
+![overview](https://www.plantuml.com/plantuml/png/VS-n2i90383X_PuYkxZe9YBL8aw2hn1weHpjfIN93NrxeuA5Grnkk7pv8OqQYfKy1XqIpoYOGMqPoLz9tNiIsZriJ_2GAPQEHE40vnAJ9Ux3-kcYdVACdEWbRaB4S6MIVe4DE34DAwZq9sDVU4SPoE1OCHECzAjrsRN_Amwg_OOu-dLF)
 
 
 - Certs are created by audited green energy producers.
